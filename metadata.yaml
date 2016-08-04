@@ -1,0 +1,28 @@
+_repo: Our-War-with-Spain-for-Cuba-s-Freedom_4210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Trumbull
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '1400'
+    url: http://www.gutenberg.org/2009/agents/1400
+description: ''
+gutenberg_bookshelf: Spanish American War
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- History'
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898'
+- !lcsh 'United States -- Foreign relations -- Spain'
+- !lcsh 'Spain -- Foreign relations -- United States'
+- GITenberg
+title: Our War with Spain for Cuba's Freedom
+url: http://www.gutenberg.org/ebooks/4210
